@@ -1,5 +1,6 @@
 public class test{
     public static void main(String[] args){
+<<<<<<< Updated upstream
         int c = 42;
 =======
         int c = 3;
